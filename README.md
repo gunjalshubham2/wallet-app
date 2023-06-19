@@ -27,7 +27,7 @@ Vue.js
 Axios
 
 # Installation
-To install the app, first clone the repository. Then, install the dependencies by running the following command:
+To install the app, first clone the repository. Then, install the dependencies by running the following command under /client folder:
 
 npm install
 
@@ -44,22 +44,22 @@ The app will be available at http://localhost:8080.
 # Additional Details
 # client
 
-## Project setup
+## Project setup under /client folder. (Go to /client folder and then run the following command)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development. (Go to /client folder and then run the following command)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production. (Go to /client folder and then run the following command)
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes files. (Go to /client folder and then run the following command)
 ```
 npm run lint
 ```
@@ -129,12 +129,12 @@ GET /wallet/12345
 
 # server
 
-## Project setup
+## Project setup. Go to /server folder and then run the following command
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads. (Go to /server folder and then run the following command)
 ```
 npm run start:server
 ```
